@@ -64,13 +64,13 @@ export const CAPACITY_GROUPS = {
 // (nome da empresa, WhatsApp do proprietário). Pra reutilizar
 // o sistema em outra estética, troque só aqui. Em produção,
 // substitua os valores fixos por variáveis de ambiente, ex.:
-//   NEXT_PUBLIC_WHATSAPP_ESTETICA=5554994062662
+//   NEXT_PUBLIC_WHATSAPP_ESTETICA=5554993018888
 // lida via process.env.NEXT_PUBLIC_WHATSAPP_ESTETICA (ou o
 // equivalente do framework usado no backend).
 // ---------------------------------------------------------
 export const CONFIG = {
   empresaNome: 'Dellazari & Quadros',
-  whatsappEstetica: '5554994062662', // número do PROPRIETÁRIO, nunca o do cliente
+  whatsappEstetica: '5554993018888', // número do PROPRIETÁRIO, nunca o do cliente
 };
 
 // ---------------------------------------------------------
