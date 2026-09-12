@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /agendar.html
+Disallow: /politica-privacidade.html
+
+Sitemap: https://www.dellazariquadros.com.br/sitemap.xml
