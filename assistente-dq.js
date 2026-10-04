@@ -12,7 +12,6 @@
     cidade: "Carazinho, RS",
     endereco: "Rua Alfredo Scherer, 125 — Bairro Ouro Preto, Carazinho, RS",
     whatsappJoao: "5554994062662",
-    whatsappFelipe: "5554999644181",
     whatsappDisplay: "(54) 99406-2662",
     instagramUrl: "https://www.instagram.com/dq_autodetail/",
     instagramHandle: "@dq_autodetail",
@@ -20,8 +19,7 @@
     pagamento: "Pix — usado hoje como adiantamento para confirmar o horário quando o agendamento é feito direto pelo site. Para outras formas de pagamento no dia do serviço, o ideal é confirmar com a equipe pelo WhatsApp.",
     diferenciais: "Padrão técnico rigoroso em cada etapa, produtos de alta performance e atenção a cada detalhe da pintura, do interior e do acabamento. Atendemos carros, motos e caminhões em Carazinho e região.",
     socios: [
-      { nome: "João Gabriel Delazzari", area: "pintura e acabamento estético", whatsapp: "5554994062662" },
-      { nome: "Felipe Quadros", area: "detalhamento, vitrificação cerâmica e higienização interna", whatsapp: "5554999644181" }
+      { nome: "João Gabriel Delazzari", area: "pintura e acabamento estético", whatsapp: "5554994062662" }
     ],
     servicos: {
       carro: [
